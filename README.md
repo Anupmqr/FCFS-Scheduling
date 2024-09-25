@@ -1,1 +1,1 @@
-# FCFS-Scheduling
+# CPU-Scheduling
